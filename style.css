@@ -57,7 +57,7 @@ header.startup h1 {
   cursor: pointer;
 }
 
-center_title {
+.center_title {
 	display:flex;
 	justify-content:center;
 	margin-right:15px
