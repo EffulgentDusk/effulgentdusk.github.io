@@ -47,12 +47,12 @@ header.startup h1 {
 }
 
 .btn-primary {
-  background-color: color: rgba(40, 143, 242, 1);
-  border-color: color: rgba(40, 143, 242, 1); }
+  background-color: rgba(40, 143, 242, 1);
+  border-color: rgba(40, 143, 242, 1); }
 
 .btn-primary:hover {
-  background-color: color: rgba(40, 143, 242, 0.5);
-  border-color: color: rgba(40, 143, 242, 0.5);
+  background-color: rgba(40, 143, 242, 0.5);
+  border-color: rgba(40, 143, 242, 0.5);
   border-width: 5px;
   cursor: pointer;
 }
