@@ -56,4 +56,9 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
+
+center_title {
+	display:flex;
+	justify-content:center;
+}
   
