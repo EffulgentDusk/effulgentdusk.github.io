@@ -12,6 +12,8 @@ hr {
   max-width: 65px;
   border-width: 3px;
   border-color: rgba(40, 143, 242, 0.8);
+  justify-content: center;
+	
 }
 
 .faded {
