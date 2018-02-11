@@ -47,7 +47,10 @@ header.startup h1 {
 
 .btn-primary {
   background-color: rgba(40, 143, 242, 1);
-  border-color: rgba(40, 143, 242, 1); }
+  border-color: rgba(40, 143, 242, 1);
+  display: flex;
+ justify-content:center;
+}
 
 .btn-primary:hover {
   background-color: rgba(40, 143, 242, 0.5);
