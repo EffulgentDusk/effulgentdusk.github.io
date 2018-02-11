@@ -30,7 +30,7 @@ header.startup hr {
   margin-bottom: 30px; 
 }
 
-header.startup h1 {
+header.startup h1, header.startup.h2 {
   font-size: 2rem; 
 }
 
